@@ -1,0 +1,28 @@
+2023/04/02-21:09:37.976 193b Reusing MANIFEST /home/mishor/bot-whaatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/02-21:09:37.977 193b Recovering log #1161
+2023/04/02-21:09:38.043 193b Reusing old log /home/mishor/bot-whaatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001161.log 
+2023/04/02-23:14:39.266 1c5a Level-0 table #1174: started
+2023/04/02-23:14:39.291 1c5a Level-0 table #1174: 1100544 bytes OK
+2023/04/02-23:14:39.294 1c5a Delete type=0 #1161
+2023/04/02-23:14:39.833 1da5 Compacting 1@1 + 9@2 files
+2023/04/02-23:14:39.889 1da5 Generated table #1175@1: 39499 keys, 2213355 bytes
+2023/04/02-23:14:39.908 1da5 Generated table #1176@1: 2868 keys, 2158666 bytes
+2023/04/02-23:14:39.925 1da5 Generated table #1177@1: 2263 keys, 2162042 bytes
+2023/04/02-23:14:39.942 1da5 Generated table #1178@1: 3337 keys, 2156804 bytes
+2023/04/02-23:14:39.981 1da5 Generated table #1179@1: 23991 keys, 2233106 bytes
+2023/04/02-23:14:40.039 1da5 Generated table #1180@1: 27413 keys, 2261473 bytes
+2023/04/02-23:14:40.092 1da5 Generated table #1181@1: 35540 keys, 2174681 bytes
+2023/04/02-23:14:40.153 1da5 Generated table #1182@1: 103865 keys, 2254386 bytes
+2023/04/02-23:14:40.201 1da5 Generated table #1183@1: 82170 keys, 1798188 bytes
+2023/04/02-23:14:40.201 1da5 Compacted 1@1 + 9@2 files => 19412701 bytes
+2023/04/02-23:14:40.203 1da5 compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1166
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1174
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1165
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1171
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1169
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1168
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1170
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1164
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1163
+2023/04/02-23:14:40.203 1da5 Delete type=2 #1167
